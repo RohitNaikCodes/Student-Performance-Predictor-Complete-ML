@@ -15,3 +15,4 @@ wheels/
 # Log files (but keep the logs directory structure)
 logs/*.log
 logs/**/*.log
+.vercel

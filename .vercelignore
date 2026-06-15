@@ -1,0 +1,7 @@
+.git/
+notebook/
+catboost_info/
+.ebextensions.zip
+.ebextensions/
+.github/
+.idea/
