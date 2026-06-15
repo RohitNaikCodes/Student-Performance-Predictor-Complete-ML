@@ -1,3 +1,5 @@
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
+
 # 🎓 Student Performance Predictor - Complete ML Engineering Journey
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://python.org)

@@ -8,4 +8,4 @@ RUN pip install -r requirements.txt
 
 EXPOSE 5000
 
-CMD [ "python3","application.py" ]
+CMD ["sh", "-c", "gunicorn -b 0.0.0.0:${PORT:-5000} application:app"]
