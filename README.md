@@ -1,4 +1,4 @@
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
+[![Deployed on Vercel](https://vercelbadge.vercel.app/api/sshinde0582-4258s-projects/student-performance-ml)](https://student-performance-ml-sand.vercel.app/)
 
 # 🎓 Student Performance Predictor - Complete ML Engineering Journey
 
@@ -12,7 +12,8 @@
 
 ## 🌟 **LIVE DEPLOYMENTS**
 
-### � **Azure App Service (Primary)**: [https://studentperformancejk-e7czefbcg3g8axgx.centralus-01.azurewebsites.net/](https://studentperformancejk-e7czefbcg3g8axgx.centralus-01.azurewebsites.net/)
+### 🚀 **Vercel (Primary Live)**: [https://student-performance-ml-sand.vercel.app/](https://student-performance-ml-sand.vercel.app/)
+### ☁️ **Azure App Service**: [https://studentperformancejk-e7czefbcg3g8axgx.centralus-01.azurewebsites.net/](https://studentperformancejk-e7czefbcg3g8axgx.centralus-01.azurewebsites.net/)
 ### 🟧 **AWS EC2 + ECR (Alternative)**: Previously deployed at `http://44.201.213.90:5000/` *(Archived to avoid costs)*
 
 ---
