@@ -1,6 +1,6 @@
 [![Deployed on Vercel](https://vercelbadge.vercel.app/api/sshinde0582-4258s-projects/student-performance-ml)](https://student-performance-ml-sand.vercel.app/)
 
-# 🎓 Student Performance Predictor - Complete ML Engineering Journey
+# 🎓 Student Performance Predictor - Complete ML Engineering Journey...
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://python.org)
 [![Flask](https://img.shields.io/badge/Flask-2.3.3-green)](https://flask.palletsprojects.com/)
