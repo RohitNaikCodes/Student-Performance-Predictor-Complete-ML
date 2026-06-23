@@ -12,8 +12,7 @@
 
 ## 🌟 **LIVE DEPLOYMENTS**
 
-### 🚀 **Vercel (Primary Live)**: [https://student-performance-ml-sand.vercel.app/](https://student-performance-ml-sand.vercel.app/)
-### ☁️ **Azure App Service**: [https://studentperformancejk-e7czefbcg3g8axgx.centralus-01.azurewebsites.net/](https://studentperformancejk-e7czefbcg3g8axgx.centralus-01.azurewebsites.net/)
+### ☁️ **Azure App Service**: { https://studentperformancejk-e7czefbcg3g8axgx.centralus-01.azurewebsites.net/ )
 ### 🟧 **AWS EC2 + ECR (Alternative)**: Previously deployed at `http://44.201.213.90:5000/` *(Archived to avoid costs)*
 
 ---
